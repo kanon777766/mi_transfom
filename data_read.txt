@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Ruta del archivo TXT
-archivo_txt = 'Claro_Peru_Asegurados_20022021234238.txt'
+archivo_txt = 'Base_de_datos_alumnos.txt'
 
 try:
     # Leer el archivo TXT
